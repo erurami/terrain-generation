@@ -6,9 +6,9 @@ terrain generate program by python.
 
 ### Screenshots
 
-{{< rawhtml >}}<video src="screenshots\1.mp4" controls></video>{{< /rawhtml >}}
+https://user-images.githubusercontent.com/88187787/131543883-ffb783d0-b689-457e-ae1c-95e33d414289.mp4
 
-![1](screenshots\1.png)
+![1](screenshots/1.png)
 
 ## requirements
 * python 3.7
