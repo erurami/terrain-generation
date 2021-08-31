@@ -8,7 +8,7 @@ terrain generate program by python.
 
 {{< rawhtml >}}<video src="screenshots\1.mp4" controls></video>{{< /rawhtml >}}
 
-![1](E:\programming\python\terrain-generation\1.png)
+![1](screenshots\1.png)
 
 ## requirements
 * python 3.7
